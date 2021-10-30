@@ -8,16 +8,16 @@ class Translation(object):
 
 <b>Am Just A Pro Auto Filter Bot....😉</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b>Donot add your group ok 🔥🔥😝</b>
 
 <b>Watch the video below to build an Pro Autofilter bot like me...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>do you create this bot please open youtube ...</b>
 
-<b>Press /help to know about available commands🤪</b>"""    
+<b>and search mo tech autofilterV2 video and see like share sub watch video and make🤪</b>"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+<b>🎖️Down manual useless ok 🎖️!😉?</b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -53,7 +53,7 @@ class Translation(object):
     
 <b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
 
-<b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
+<b>➥ 👨‍💻Editor</b> : <b>@arshad6153</b>
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
